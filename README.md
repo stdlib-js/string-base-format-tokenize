@@ -37,7 +37,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import formatTokenize from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-format-tokenize@deno/mod.js';
+import formatTokenize from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-format-tokenize@v0.0.3-deno/mod.js';
 ```
 
 #### formatTokenize( str )
@@ -71,7 +71,7 @@ The format identifier objects have the following properties:
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import formatTokenize from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-format-tokenize@deno/mod.js';
+import formatTokenize from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-format-tokenize@v0.0.3-deno/mod.js';
 
 var out = formatTokenize( 'Hello %s!' );
 // returns [ 'Hello ', {...}, '!' ]
