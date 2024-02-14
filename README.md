@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import formatTokenize from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-format-tokenize@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/string-base-format-tokenize/tags). For example,
+
+```javascript
 import formatTokenize from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-format-tokenize@v0.2.0-esm/index.mjs';
 ```
 
@@ -87,7 +92,7 @@ The format identifier objects have the following properties:
 <body>
 <script type="module">
 
-import formatTokenize from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-format-tokenize@v0.2.0-esm/index.mjs';
+import formatTokenize from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-format-tokenize@esm/index.mjs';
 
 var out = formatTokenize( 'Hello %s!' );
 // returns [ 'Hello ', {...}, '!' ]
