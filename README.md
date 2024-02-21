@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import formatTokenize from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-format-tokenize@esm/index.mjs';
+import formatTokenize from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-format-tokenize@v0.2.1-esm/index.mjs';
 ```
 
 #### formatTokenize( str )
@@ -87,7 +87,7 @@ The format identifier objects have the following properties:
 <body>
 <script type="module">
 
-import formatTokenize from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-format-tokenize@esm/index.mjs';
+import formatTokenize from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-format-tokenize@v0.2.1-esm/index.mjs';
 
 var out = formatTokenize( 'Hello %s!' );
 // returns [ 'Hello ', {...}, '!' ]
