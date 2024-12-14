@@ -120,6 +120,12 @@ out = formatTokenize( 'Multiple flags: %#+s' );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/string-base/format-interpolate`][@stdlib/string/base/format-interpolate]</span><span class="delimiter">: </span><span class="description">generate string from a token array by interpolating values.</span>
+
 </section>
 
 <!-- /.related -->
@@ -195,6 +201,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/string-base-format-tokenize/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/string-base-format-tokenize/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/string/base/format-interpolate]: https://github.com/stdlib-js/string-base-format-interpolate
+
+<!-- </related-links> -->
 
 </section>
 
