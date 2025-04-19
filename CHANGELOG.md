@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-07)
+## Unreleased (2025-04-19)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`5d5742b`](https://github.com/stdlib-js/stdlib/commit/5d5742b1d6b22eb0e9d597242035be42833c004c) - update `format-tokenize` to correctly handle escaped percent signs [(#6695)](https://github.com/stdlib-js/stdlib/pull/6695)
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`5d5742b`](https://github.com/stdlib-js/stdlib/commit/5d5742b1d6b22eb0e9d597242035be42833c004c) - **fix:** update `format-tokenize` to correctly handle escaped percent signs [(#6695)](https://github.com/stdlib-js/stdlib/pull/6695) _(by Karan Anand)_
 -   [`2825b42`](https://github.com/stdlib-js/stdlib/commit/2825b42e8cd7483d15dfed1c6b389bfcb86d7ca0) - **docs:** update related packages sections [(#3898)](https://github.com/stdlib-js/stdlib/pull/3898) _(by stdlib-bot)_
 
 </details>
@@ -19,6 +30,18 @@
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Karan Anand
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
