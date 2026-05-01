@@ -66,6 +66,7 @@
     "utility",
     "utils",
     "util",
+    "base",
     "string",
     "str",
     "format",

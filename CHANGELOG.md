@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-05-01)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`43d1d20`](https://github.com/stdlib-js/stdlib/commit/43d1d20ba3ad56a2d8dc0f9a7dafb279240a976e) - **docs:** align keywords in `string/base` with namespace majority patterns [(#11841)](https://github.com/stdlib-js/stdlib/pull/11841) _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.4">
 
 ## 0.2.4 (2026-02-01)
