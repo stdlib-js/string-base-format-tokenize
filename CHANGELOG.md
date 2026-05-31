@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-24)
+## Unreleased (2026-05-31)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`fe7c274`](https://github.com/stdlib-js/stdlib/commit/fe7c2746799f98c42a15f5ab2240676bb9b5987d) - **docs:** fix errors and inconsistencies in `@stdlib/string` TypeScript declarations [(#12390)](https:-/github.com/stdlib-js/stdlib/pull/12390) _(by Philipp Burckhardt, Athan Reines)_
 -   [`43d1d20`](https://github.com/stdlib-js/stdlib/commit/43d1d20ba3ad56a2d8dc0f9a7dafb279240a976e) - **docs:** align keywords in `string/base` with namespace majority patterns [(#11841)](https://github.com/stdlib-js/stdlib/pull/11841) _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
